@@ -1,0 +1,1 @@
+### Simple class with a method for adding a list or pandas series to a dataframe with the desired column name
